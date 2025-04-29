@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+langchain
+transformers
+torch
+langchain_community
+wikipedia
