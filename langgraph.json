@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "default": "graph:graph"
+  },
+  "dependencies": [
+    "react_agent"
+  ]
+}

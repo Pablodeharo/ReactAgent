@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Archivos de datos procesados
+argumentos_procesados.*
+dialogos_procesados.*
+obras_procesados.*
+
+# Archivos ocultos del sistema (por si acaso)
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+{
+    "name": "socrates-agente",
+    "entrypoint": "graph:create_graph",
+    "runtime": "python",
+    "dependencies": [
+      "react_agent"
+    ],
+    "env": {
+      "MODEL_PATH": "C:/Users/Lucas/Desktop/Socrates/llm_proyect/src/modelo_dialogos"
+    }
+  }
