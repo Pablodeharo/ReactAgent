@@ -13,7 +13,7 @@ localmente e integraciones con herramientas externas para proporcionar respuesta
 ## Documentación
 
 Puedes encontrar la documentación completa del proyecto en el siguiente enlace:
-📄 [Ver documentación completa (PDF)](docs/proyecto_socrates.pdf)
+📄 [Agente React Socrates (PDF)](docs/Agente%20React%20Socrates.pdf)
 
 📄 [Notion – Proyecto Sócrates](https://dawn-muscari-be0.notion.site/Proyecto-S-crates-1e1a25f13fdd801a81eccdfd8977278e)
 
